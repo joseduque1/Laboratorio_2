@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Problema_15",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Problema_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Problema_15-Debug-70788e13879935c736ac.json",
+					"name" : "Problema_15",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/EQ01/Documents/Dyrak/UdeA/Informatica.II/Laboratorio_2/build-Problema_15-Desktop_Qt_6_3_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/EQ01/Documents/Dyrak/UdeA/Informatica.II/Laboratorio_2/Problema_15"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

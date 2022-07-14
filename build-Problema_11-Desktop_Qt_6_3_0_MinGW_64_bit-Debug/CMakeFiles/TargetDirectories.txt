@@ -1,0 +1,3 @@
+C:/Users/EQ01/Documents/Dyrak/UdeA/Informatica.II/Laboratorio_2/build-Problema_11-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/Problema_11.dir
+C:/Users/EQ01/Documents/Dyrak/UdeA/Informatica.II/Laboratorio_2/build-Problema_11-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/EQ01/Documents/Dyrak/UdeA/Informatica.II/Laboratorio_2/build-Problema_11-Desktop_Qt_6_3_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
